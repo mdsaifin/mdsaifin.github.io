@@ -43,6 +43,7 @@ h6 {
 }
 .btn:hover{
   transform: scale(1.2);
+  color: #0563bb;
 }
 
 .back-to-top {
