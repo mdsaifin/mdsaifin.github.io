@@ -865,6 +865,7 @@ img{
 .testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 auto 15px auto;
+  color: white;
 }
 
 .testimonials .swiper-pagination {
