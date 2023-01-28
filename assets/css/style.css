@@ -549,6 +549,16 @@ img{
   border: 2px solid #0563bb;
 }
 
+
+/* media-coverage */
+.testimonials .testimonial-item .media-coverage {
+  height:auto;
+  width: 30%;
+  border-radius: 0%;
+  border: 1px solid #fff;
+  margin: 0 auto;
+}
+
 /*--------------------------------------------------------------
 # Projects
 --------------------------------------------------------------*/
