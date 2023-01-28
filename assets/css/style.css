@@ -1282,7 +1282,7 @@ img{
 
 @keyframes ripple{
   0%{
-    transform: scale(1);
+    transform: scale(0.5);
   }
   
   50%{
@@ -1290,7 +1290,7 @@ img{
   }
   
   100%{
-    transform: scale(1);
+    transform: scale(0.5);
   }
 }
 
