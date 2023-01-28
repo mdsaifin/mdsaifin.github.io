@@ -352,6 +352,30 @@ h6 {
   }
 }
 
+
+/* glowing text */
+.tube {
+  font-size: 3em;
+  letter-spacing: 15px;
+  color: #0e3742;
+  animation: animate 2s linear infinite;
+}
+@keyframes animate {
+  0%,18%,20%,50%,60%,65%,80%,90%,92% {
+      color: #0e3742;
+      text-shadow: none;
+  }
+  18%,20%,50%,60%,65%,80%,90%,92%,100% {
+      color: white;
+      text-shadow: 0 0 10px #03bcf4,
+                  0 0 20px #03bcf4,
+                  0 0 40px #03bcf4,
+                  0 0 80px #03bcf4,
+                  0 0 160px #03bcf4;
+  }
+}
+
+
 section {
   padding: 60px 0;
   overflow: hidden;
