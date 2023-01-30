@@ -8,6 +8,9 @@ body {
   color: #a1acb7;
   cursor: url(../img/cursor.png), auto;
 }
+.simple-cursor{
+  cursor: pointer;
+}
 
 a {
   color: #0563bb;
