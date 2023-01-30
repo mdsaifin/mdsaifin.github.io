@@ -4,7 +4,8 @@ written using HTML, CSS and JavaScript */
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: #16213E;
+/*   background: #16213E; */
+  background: linear-gradient(to right, #010614, black, #010614);
   color: #a1acb7;
   cursor: url(../img/cursor.png), auto;
 }
