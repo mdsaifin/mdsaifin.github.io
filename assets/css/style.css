@@ -7,7 +7,7 @@ body {
 /*   background: #16213E; */
   background: linear-gradient(to right, #010614, black, #010614);
   color: #a1acb7;
-  cursor: url(../img/cursor.png), auto;
+  cursor: url(../img/cursor_firefly.png), auto;
 }
 .simple-cursor{
   cursor: pointer;
