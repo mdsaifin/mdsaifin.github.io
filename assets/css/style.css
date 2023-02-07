@@ -1274,12 +1274,17 @@ button, input {
   font-size: 13px;
 }
 
+/* certificate */
 .testimonials .testimonial-item .certificates {
   height:auto;
-  width: 60%;
+  width: 54%;
   border-radius: 0%;
   border: 1px solid #fff;
   margin: 0 auto;
+}
+.certi-details{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: small;
 }
 
 
@@ -1331,10 +1336,10 @@ button, input {
 }
 
 .shade1{
-  opacity: 0.03;
+  opacity: 0.07;
 }
 .shade2{
-  opacity: 0.05;
+  opacity: 0.07;
 }
 
 .shade3{
@@ -1342,7 +1347,7 @@ button, input {
 }
 
 .shade4{
-  opacity: 0.085;
+  opacity: 0.9;
 }
 
 .shade5{
