@@ -442,9 +442,10 @@ section {
 }
 
 
-img{
+/* img{
   border-radius: 15%;
-}
+} */
+
 .about .content ul {
   list-style: none;
   padding: 0;
