@@ -441,10 +441,13 @@ section {
   color: #9aabbb;
 }
 
-
-/* img{
+img{
   border-radius: 15%;
-} */
+}
+
+.dp img{
+  border-radius: 0%;
+}
 
 .about .content ul {
   list-style: none;
