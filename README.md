@@ -5,4 +5,3 @@ Date of Starting: 21 January 2022
 
 Date of Completion: 27 January 2022
 
-Place: NIT Patna
