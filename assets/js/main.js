@@ -265,3 +265,20 @@
   new PureCounter();
 
 })()
+
+
+ function clearForm() {
+    // Get the form element by its ID
+    var form = document.getElementById("myForm");
+
+    // Loop through each form element and set its value to an empty string
+    for (var i = 0; i < form.elements.length; i++) {
+      var element = form.elements[i];
+
+      // Check if the element is a form field (not a button or other type of input)
+      if (element.tagName !== "BUTTON" && element.type !== "button") {
+        element.value = "";
+      }
+    }
+    form.reset();
+  }
